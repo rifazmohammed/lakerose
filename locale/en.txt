@@ -1,0 +1,98 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Lake Rose Wayanad Resort
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_BC7E47DD_8C92_86B6_41D0_CA56AD95537C.label = LakeRose Wayanad Resort
+album_BC7E47DD_8C92_86B6_41D0_CA56AD95537C_0.label = LakeRose Wayanad Resort 12
+album_BC7E47DD_8C92_86B6_41D0_CA56AD95537C_1.label = LakeRose Wayanad Resort -Cover photo
+album_BC7E47DD_8C92_86B6_41D0_CA56AD95537C_10.label = LakeRose Wayanad Resort 10
+album_BC7E47DD_8C92_86B6_41D0_CA56AD95537C_11.label = LakeRose Wayanad Resort 11
+album_BC7E47DD_8C92_86B6_41D0_CA56AD95537C_2.label = LakeRose Wayanad Resort 2
+album_BC7E47DD_8C92_86B6_41D0_CA56AD95537C_3.label = LakeRose Wayanad Resort 3
+album_BC7E47DD_8C92_86B6_41D0_CA56AD95537C_4.label = LakeRose Wayanad Resort 4
+album_BC7E47DD_8C92_86B6_41D0_CA56AD95537C_5.label = LakeRose Wayanad Resort 5
+album_BC7E47DD_8C92_86B6_41D0_CA56AD95537C_6.label = LakeRose Wayanad Resort 6
+album_BC7E47DD_8C92_86B6_41D0_CA56AD95537C_7.label = LakeRose Wayanad Resort 7
+album_BC7E47DD_8C92_86B6_41D0_CA56AD95537C_8.label = LakeRose Wayanad Resort 8
+album_BC7E47DD_8C92_86B6_41D0_CA56AD95537C_9.label = LakeRose Wayanad Resort 9
+panorama_6CB508BA_671B_69AA_41CD_C77BC47965FB.label = Wahroom - Deluxe room
+panorama_6DA67168_671B_18D6_41A3_8E669ACFD8F1.label = Sitout - Honeymoon Cottage
+panorama_6DD944F9_671B_79B6_41D5_768ABC00AE6D.label = Deluxe Room
+panorama_A3446E07_8BC6_77E5_41DB_41495A6071E6.label = Washroom-Honeymoon Cottage
+panorama_AEFCFD32_8BC1_943F_41D4_77B6F4AB8968.label = Restaurant
+panorama_AEFD0143_8BC6_AC5D_41CC_0686C3BAD936.label = Executive Jacuzzi Suite
+panorama_AEFD268E_8BC1_94E7_41DE_39988C2EB52A.label = Childerens Play area
+panorama_AEFD2FD9_8BC1_B46D_41DE_C17CB090E6E2.label = Restaurant
+panorama_AEFD32A1_8BC1_ACDD_41E1_1BA39FF453C1.label = Indoor games area
+panorama_AEFD36F8_8BC6_F42B_41BC_E734D508E4CE.label = Washroom - Executive Jacuzzi Suite
+panorama_AEFD374A_8BC1_F46F_41CC_028D7CBA757A.label = Porch
+panorama_AEFD3869_8BC1_9C2C_41B0_3E46D7747449.label = View from garden area
+panorama_AEFD4559_8BC1_946D_41CC_30BD4860035A.label = Reception and Lobby
+panorama_AEFD942F_8BC6_9425_41D9_BC91A3FEC14A.label = Executive Jacuzzi Suite
+panorama_AEFD999F_8BC6_9CE5_41E0_EB98B4615472.label = Executive Jacuzzi Suite
+panorama_AEFDBA85_8BC6_BCE5_41D6_97120F5275CB.label = Entrance - Honeymoon Cottage
+panorama_AEFDCE7D_8BC6_B425_41CB_3712F01EFA24.label = Balcony - Delux Room
+panorama_AEFE2C66_8BC6_9427_41D7_4AF778540F56.label = Honeymoon Cottage
+panorama_AEFEBA89_8BC2_7CED_41DF_97CC40DF063F.label = Restaurant
+panorama_AEFF07AE_8BC2_9427_41DD_6C3022DB2CAD.label = Swimming Pool
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_90CA5E4B_8B92_8992_4197_8E0150CBE54D.toolTip = Lakeview Sitout
+HotspotPanoramaOverlayArea_920C6DB7_8B96_8AF2_41C8_8432E79C6DCD.toolTip = Washroom
+HotspotPanoramaOverlayArea_925B048C_8B91_FA96_41C9_A3033FFEEBF4.toolTip = Cottage Entrance
+HotspotPanoramaOverlayArea_9647DAB4_8BB1_8EF6_41BB_2B60913237AD.toolTip = Balcony
+HotspotPanoramaOverlayArea_9660C84D_8BB2_8996_41E0_07E80ABADD87.toolTip = Washroom
+HotspotPanoramaOverlayArea_9801039B_8BFF_BEB2_41CF_6D56777A1658.toolTip = Porch
+HotspotPanoramaOverlayArea_9915050F_8BFE_9B92_41DF_3BE71568B405.toolTip = Reception
+HotspotPanoramaOverlayArea_99CD9D6D_8BF3_8B96_41A9_75C56B1DF2CA.toolTip = Honeymoon Cottage
+HotspotPanoramaOverlayArea_9A13C376_8BF1_9E72_41C3_42D134845D6C.toolTip = Reception
+HotspotPanoramaOverlayArea_9A748145_8BF1_9B96_41B1_0FA9EF7E83BA.toolTip = Swing Pool
+HotspotPanoramaOverlayArea_9A792FE4_8BF1_8696_41CB_779EF7F4D1E4.toolTip = Reception and Lobby
+HotspotPanoramaOverlayArea_9AABD14E_8BF6_7B92_41E0_147E110A7AA5.toolTip = Garden Area
+HotspotPanoramaOverlayArea_9C5E55DE_8B92_BAB2_41D1_6026F456D834.toolTip = Bedroom
+HotspotPanoramaOverlayArea_9C80AA8A_8B9E_8E92_41D1_F71D48D5B4A3.toolTip = Jacuzzi
+HotspotPanoramaOverlayArea_9D39A6E1_8B97_868E_41DE_21D97C2973CC.toolTip = Reception & Lobby
+HotspotPanoramaOverlayArea_9DAA3126_8B92_9B92_41B9_486F6BFEEFAC.toolTip = Sitting Area
+HotspotPanoramaOverlayArea_9DD6AFB6_8B96_86F2_41E1_3B20CA41B925.toolTip = Bedroom
+HotspotPanoramaOverlayArea_9E9D0A91_8B92_8E8E_41E1_53739D5DDB1C.toolTip = Bedroom
+HotspotPanoramaOverlayArea_9F9B7BFD_8BEF_8E76_41B2_8C3C95964753.toolTip = Executive Jacuzzi Suite
+HotspotPanoramaOverlayArea_9FA157C9_8B92_869E_41D4_3268863D7312.toolTip = Washroom
+HotspotPanoramaOverlayArea_9FB285B6_8BF6_BAF2_41D8_D585F1FC793A.toolTip = Restaurant
+HotspotPanoramaOverlayArea_A3915711_8B92_878E_41C9_7536D28A8812.toolTip = Indoor games area
+HotspotPanoramaOverlayArea_A48BD765_8C6E_8796_41D1_8C8577D341F9.toolTip = Restaurant
+HotspotPanoramaOverlayArea_A82252C5_8BB1_BE96_41C2_09C19F6B0CE3.toolTip = Deluxe Rooms
+HotspotPanoramaOverlayArea_A8B47634_8BB3_F9F6_41D1_BB800E981858.toolTip = Honeymoon Cottage
+HotspotPanoramaOverlayArea_AED5DD4A_8B96_8B92_41DA_39A8873C0F74.toolTip = Reception and Lobby
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = https://www.lakerosewayanad.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = https://www.lakerosewayanad.com
